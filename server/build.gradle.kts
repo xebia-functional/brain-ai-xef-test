@@ -48,6 +48,8 @@ dependencies {
     implementation(projects.xefCore)
     implementation(projects.xefLucene)
     implementation(projects.xefPostgresql)
+    testImplementation(libs.ktor.server.test.host)
+    testImplementation(libs.kotlin.test)
 }
 
 tasks.getByName<Copy>("processResources") {
