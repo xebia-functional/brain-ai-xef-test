@@ -1,5 +1,9 @@
 # xef.ai [![Maven Central](https://img.shields.io/maven-central/v/com.xebia/xef-core?color=4caf50&label=latest%20release)](https://central.sonatype.com/artifact/com.xebia/xef-core)
 
+### TESTING
+
+Just testing...
+
 > Bring modern AI everywhere!
 
 xef is the one-stop library to bring the power of modern AI to your application or service,
